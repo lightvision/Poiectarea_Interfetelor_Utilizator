@@ -1,4 +1,4 @@
-# Poiectarea_Interfetelor_Utilizator
+# Proiectarea_Interfetelor_Utilizator
 Acest repository contine toate aplicatiile create ca tema pentru Cursul de **Proiectarea Interfetelor Utilizator**.
 
 >
