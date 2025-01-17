@@ -1,3 +1,6 @@
 [submodule "SimpleCalculator"]
 	path = SimpleCalculator
 	url = git@github.com:lightvision/SimpleCalculator.git
+[submodule "ProductApp"]
+	path = ProductApp
+	url = git@github.com:lightvision/ProductApp.git
